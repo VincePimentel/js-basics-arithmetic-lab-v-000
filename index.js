@@ -6,4 +6,4 @@ Variables defined in the test suite:
 You should NOT try to redefine any of the above variables.
 */
 
-const newID = 
+const newID = 1000000000 + oldID;
